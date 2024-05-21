@@ -1,6 +1,6 @@
-# txt uploader
+# TXT UPLOADER
 
-# Made By TIGER
+# Made By LUCKY
 
 
 ## DEPLOY TO HEROKU
