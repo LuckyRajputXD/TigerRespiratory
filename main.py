@@ -21,7 +21,6 @@ from pyrogram.errors.exceptions.bad_request_400 import StickerEmojiInvalid
 from pyrogram.types.messages_and_media import message
 from pyrogram.types import InlineKeyboardButton, InlineKeyboardMarkup
 
-
 bot = Client("bot",
              bot_token= "6543084771:AAEeKisThX6Y1yjAupy4Kb2eX1zyU7G_fyY",
              api_id=3748059,
