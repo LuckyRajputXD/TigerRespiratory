@@ -23,9 +23,9 @@ import re
 import os
 
 bot = Client("bot",
-             bot_token= "6739442523:AAHHA5HZmU6sqI-elmhTs8dwHqfhTizWwnQ",
-             api_id=22609670,
-             api_hash= "3506d8474ad1f4f5e79b7c52a5c3e88d")
+             bot_token= "6543084771:AAEeKisThX6Y1yjAupy4Kb2eX1zyU7G_fyY",
+             api_id=3748059,
+             api_hash= "f8c9df448f3ba20a900bc2ffc8dae9d5")
 
 
 @bot.on_message(filters.command(["start"]) & filters.user(ADMINS))
